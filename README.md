@@ -1,2 +1,2 @@
-# learner-corner
+# Learner Corner
 Cozy corner for lifelong learner
