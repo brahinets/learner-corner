@@ -1,8 +1,8 @@
 # Learner Corner
 
-Cozy corner for lifelong learner
+![image](https://github.com/brahinets/learner-corner/assets/4119411/7930f263-1665-4854-aa29-6f3d9c8c5901)
 
-Who knows where we'll end, but here we start...
+## Cozy corner for lifelong learner
 
 ### Novels/Books
 
