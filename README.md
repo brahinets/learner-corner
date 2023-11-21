@@ -1,4 +1,4 @@
-# "Learner Corner" - a cozy corner for lifelong learner
+# Learner Corner - a cozy corner for lifelong learner
 
 ## I Recommend
 
