@@ -1,6 +1,4 @@
-# [Learner Corner](https://brahinets.github.io/learner-corner) - a cozy corner for lifelong learner
-
-## I Recommend
+# My recommendations
 
 ### [📰 Articles](./articles.md)
 
