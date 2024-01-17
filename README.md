@@ -1,4 +1,6 @@
-# My recommendations
+# Learner Corner
+
+## My recommendations
 
 ### [📰 Articles](./articles.md)
 
