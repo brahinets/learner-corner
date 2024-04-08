@@ -10,3 +10,4 @@
 |   **Start**   | _Be smart, use S.M.A.R.T._  | `smart` `goal` `achieve` `success`         | [10 principles for good code](https://www.dein.fr/posts/2015-10-01-10-principles-for-good-code)                                   |
 | **Next step** |      _Diversify or die_     | `soft skill` `hard skill` `growth` `smart` | [How To Write A SMART Goal (And How They Work)](https://www.techtarget.com/whatis/definition/SMART-SMART-goals)                   |
 | **Next step** |  _Forewarned is forearmed_  | `microservices` `architecture` `pitfalls`  | [Fallacies of Distributed Systems](https://architecturenotes.co/fallacies-of-distributed-systems)                                 |
+| **Next step** |    _Understanding people_   | `leadership` `management` `soft skill`     | [5 Things You Will Never Learn From Management Books](https://ehandbook.com/5-things-you-will-never-learn-from-management-books-66d5ce3db4d9)                                 |
