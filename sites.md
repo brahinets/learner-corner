@@ -2,7 +2,8 @@
 
 ### Websites and Resources
 
-|     When      |         Motto         | Tags                                                          | Url                                                       |
-|:-------------:|:---------------------:|---------------------------------------------------------------|-----------------------------------------------------------|
-| **Next step** |  _Keep the memories_  | `db` `database` `relational database` `sql` `postgres`        | [PostgreSQL Tutorial](https://www.postgresqltutorial.com) |
-| **Next step** | _Be a better manager_ | `management` `engineering` `people` `technology` `leadership` | [TechTello](https://www.techtello.com/)                   |
+|     When      |         Motto            | Tags                                                          | Url                                                       |
+|:-------------:|:------------------------:|---------------------------------------------------------------|-----------------------------------------------------------|
+| **Next step** | _Become a database Jedi_ | `db` `database` `relational database` `sql`                   | [Use the index Luke](https://use-the-index-luke.com)      |
+| **Next step** |  _Keep the memories_     | `db` `database` `relational database` `sql` `postgres`        | [PostgreSQL Tutorial](https://www.postgresqltutorial.com) |
+| **Next step** | _Be a better manager_    | `management` `engineering` `people` `technology` `leadership` | [TechTello](https://www.techtello.com/)                   |
